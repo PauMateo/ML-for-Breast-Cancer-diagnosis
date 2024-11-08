@@ -10,7 +10,7 @@ Breast cancer is the most common cancer among women worldwide, accounting for 25
 
 <p align="justify">
 Following data preprocessing, feature selection was performed to optimize model performance. We trained multiple models, including LDA, QDA, k-NN, Naive Bayes, Decision Tree, Random Forest, Logistic Regression, AdaBoost, and XGBoost. The best models were selected based on cross-validation metrics, prioritizing recall to minimize false negatives. Logistic Regression, AdaBoost, and QDA emerged as the top models, achieving over 95% accuracy and recall on the test set.
-<\p>
+</p>
 
 
 
